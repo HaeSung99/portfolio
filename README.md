@@ -11,7 +11,7 @@
 | 분야 | 기술 |
 |------|------|
 | 백엔드 | Node.js, Express.js |
-| 인프라 | AWS EC2, Docker |
+| 인프라 | AWS EC2, Docker, Nginx |
 | 데이터베이스 | MySQL |
 | 협업/문서화 | Swagger, Git, Notion |
 | 프론트 | EJS (SSR 방식) |
