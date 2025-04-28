@@ -83,7 +83,7 @@
 > 어떤 부분을 보완해야 하는지 구체적으로 인식**할 수 있었다.
 
 #### 🔗 링크
-- **배포 사이트**: [https://lostparty.com](https://lostparty.com)  
+- **배포 사이트**: [https://lostparty.com](https://lostparty.com)  (비용문제로 일시중지)
 - **GitHub**: [https://github.com/HaeSung99/lp_project](https://github.com/HaeSung99/lp_project)
 
 ---
