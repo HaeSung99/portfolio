@@ -13,7 +13,7 @@
 | 분야 | 기술 |
 |------|------|
 | 백엔드 | Node.js, Express.js, NestJS |
-| 프론트엔드 | Next.js, TypeScript, Tailwind CSS |
+| 프론트엔드 | Next.js(v15), TypeScript, Tailwind CSS, Jotai |
 | 인프라 | AWS EC2, Docker, Nginx, S3, ECR, ECS |
 | 데이터베이스 | MySQL, RDS, TypeORM, Prisma |
 | 인증/보안 | JWT, bcrypt, Passport.js |
