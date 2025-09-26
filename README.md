@@ -1,6 +1,6 @@
 # Full-Stack Developer | 성인석
 
-**"기획에서 배포까지 서비스를 만들어내는 개발자"**
+**"처음부터 끝까지 서비스를 만들어내는 개발자"**
 
 모던 웹 기술 스택을 활용한 풀스택 개발과 클라우드 인프라 구축 경험을 바탕으로,  
 안정적이고 확장 가능한 서비스를 구현하는 개발자입니다.  
@@ -13,9 +13,9 @@
 | 분야 | 기술 |
 |------|------|
 | 백엔드 | Node.js, Express.js, NestJS |
-| 프론트엔드 | Next.js, TypeScript, Tailwind CSS, EJS |
-| 인프라 | AWS EC2, Docker, Nginx |
-| 데이터베이스 | MySQL, TypeORM |
+| 프론트엔드 | Next.js, TypeScript, Tailwind CSS |
+| 인프라 | AWS EC2, Docker, Nginx, S3, ECR, ECS |
+| 데이터베이스 | MySQL, RDS, TypeORM, Prisma |
 | 인증/보안 | JWT, bcrypt, Passport.js |
 | 협업/문서화 | Swagger, Git, Notion |
 
