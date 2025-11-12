@@ -1,4 +1,4 @@
-# Full-Stack Developer | 성인석
+# Developer | 성인석
 
 **"처음부터 끝까지 서비스를 만들어내는 개발자"**
 
@@ -13,9 +13,9 @@
 | 분야 | 기술 |
 |------|------|
 | 백엔드 | Node.js, Express.js, NestJS |
-| 프론트엔드 | Next.js(v15), TypeScript, Tailwind CSS, Jotai |
+| 프론트엔드 | Next.js(v15), TypeScript, Tailwind CSS |
 | AI/LLM | OpenAI API (GPT), 프롬프트 엔지니어링 |
-| 인프라 | AWS EC2, Docker, Docker Compose, Nginx, S3, ECR, ECS |
+| 인프라 | AWS EC2, Docker, Docker Compose, Nginx, S3 |
 | 데이터베이스 | MySQL, MSSQL, RDS, TypeORM, Prisma |
 | 인증/보안 | JWT, bcrypt, Passport.js |
 | 결제 시스템 | 토스페이먼츠 (Key-in API) |
