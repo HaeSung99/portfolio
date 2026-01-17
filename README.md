@@ -18,7 +18,7 @@
 | 인프라 | AWS EC2, Docker, Docker Compose, Nginx, S3 |
 | 데이터베이스 | MySQL, MSSQL, TypeORM, Prisma |
 | 인증/보안 | JWT, bcrypt, Passport.js |
-| 브라우저 확장 | Chrome Extension (Manifest V3), Shadow DOM |
+| 브라우저 확장 | Chrome Extension (Manifest V3) |
 | 협업/문서화 | Swagger, Git, Notion |
 
 ---
