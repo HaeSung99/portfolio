@@ -25,12 +25,8 @@
 
 ## 프로젝트 경험
 
-### 1. 설문 조사 플랫폼 (개인 프로젝트)  
-> 조사원·응답자·관리자가 한 화면에서 설문을 만들고 이어서 응답할 수 있는 프로토타입
-
-- **기간**: 2025.11 ~ 2025.11  (약 7일)
-- **팀 구성**: 1명 (풀스택)  
-- **내 역할**: 기획 · 백엔드 · 프런트엔드
+<details>
+<summary><b>1. 설문 조사 플랫폼 (개인 프로젝트)</b> - 조사원·응답자·관리자가 한 화면에서 설문을 만들고 이어서 응답할 수 있는 프로토타입 | 기간: 2025.11 ~ 2025.11 (약 7일) | 팀 구성: 1명 (풀스택) | 내 역할: 기획 · 백엔드 · 프런트엔드 | 기술: HTML, jQuery, Tailwind CSS, NestJS, TypeScript, Prisma ORM, MSSQL</summary>
 
 #### 사용 기술
 **Frontend**: `HTML`, `jQuery`, `Tailwind CSS`  
@@ -48,7 +44,7 @@
 #### 배운 점
 - 토큰 기반 상태 복원으로 이어하기 기능 구현
 - Prisma와 NestJS 조합으로 타입 안정성과 생산성 확보
-- 선택지 기반 분기 로직 설계 및 테스트 시나리오 작성
+- 선택지 기반 분기 로직 설계
 
 #### 기억에 남는 이슈 해결 or 작업 경험
 - **선택지 분기 표 설계**: 복잡한 설문에서 선택지 조합에 따라 문항이 건너뛰거나 반복되는 시나리오 누락 문제를 설문 흐름 표로 정리하고 조건 배열로 정의하여 해결  
@@ -56,14 +52,12 @@
 #### 링크
 - **GitHub**: [https://github.com/HaeSung99/survey-demo-portfolio](https://github.com/HaeSung99/survey-demo-portfolio)
 
+</details>
+
 ---
 
-### 2. Mail Advisor - AI 메일 작성 어시스턴트 (개인 프로젝트)  
-> 네이버 메일 작성 시 AI가 실시간으로 전문적인 메일로 재작성해주는 Chrome 확장 프로그램
-
-- **기간**: 2025.10.16 ~ 2025.10.27
-- **팀 구성**: 1명 (풀스택)  
-- **내 역할**: 풀스택 개발 전담
+<details>
+<summary><b>2. Mail Advisor - AI 메일 작성 어시스턴트 (개인 프로젝트)</b> - 네이버 메일 작성 시 AI가 실시간으로 전문적인 메일로 재작성해주는 Chrome 확장 프로그램 | 기간: 2025.10.16 ~ 2025.10.27 | 팀 구성: 1명 (풀스택) | 내 역할: 풀스택 개발 전담 | 기술: Chrome Extension, NestJS, TypeScript, MySQL, TypeORM, JWT, OpenAI API, Docker</summary>
 
 #### 사용 기술
 **Frontend**: `Chrome Extension`  
@@ -95,14 +89,12 @@
 #### 링크
 - **GitHub**: [https://github.com/HaeSung99/mail-advisor](https://github.com/HaeSung99/mail-advisor)
 
+</details>
+
 ---
 
-### 3. 스포츠 클래스 예약 시스템 (개인 프로젝트)  
-> 스포츠 클래스 신청 및 관리를 위한 풀스택 웹서비스
-
-- **기간**: 2025.06.12 ~ 2025.07.08
-- **팀 구성**: 1명 (풀스택)  
-- **내 역할**: 풀스택 개발 전담
+<details>
+<summary><b>3. 스포츠 클래스 예약 시스템 (개인 프로젝트)</b> - 스포츠 클래스 신청 및 관리를 위한 풀스택 웹서비스 | 기간: 2025.06.12 ~ 2025.07.08 | 팀 구성: 1명 (풀스택) | 내 역할: 풀스택 개발 전담 | 기술: Next.js 15, TypeScript, Tailwind CSS, NestJS, MySQL, TypeORM, JWT, Docker</summary>
 
 #### 사용 기술
 **Frontend**: `Next.js 15`, `TypeScript`, `Tailwind CSS`, `Axios`  
@@ -128,8 +120,6 @@
 - Docker 핫리로드와 헬스체크 시스템 구현
 - JWT 토큰 인증과 bcrypt 해싱을 통한 보안 시스템 구축
 
-
-
 #### 기억에 남는 이슈 해결 or 작업 경험
 - **Docker 핫리로드 설정**: `CHOKIDAR_USEPOLLING=true`와 `WATCHPACK_POLLING=true` 설정으로 파일 변경 감지 방식 개선
 - **다중 관리자 동시성 제어**: TypeORM의 낙관적 락을 통해 버전 기반 충돌 감지 및 자동 갱신 구현
@@ -138,14 +128,12 @@
 #### 링크
 - **GitHub**: [https://github.com/HaeSung99/fullstack-website](https://github.com/HaeSung99/fullstack-website)
 
+</details>
+
 ---
 
-### 4. LostParty (팀 프로젝트 | 팀 리더)  
-> 실시간 게임 파티 정보 제공 웹서비스
-
-- **기간**: 2024.12 ~ 2025.04  
-- **팀 구성**: 3명 (백엔드/프론트엔드/OCR)  
-- **내 역할**: 백엔드 전담 + 팀 리더 
+<details>
+<summary><b>4. LostParty (팀 프로젝트 | 팀 리더)</b> - 실시간 게임 파티 정보 제공 웹서비스 | 기간: 2024.12 ~ 2025.04 | 팀 구성: 3명 (백엔드/프론트엔드/OCR) | 내 역할: 백엔드 전담 + 팀 리더 | 기술: Node.js, Express.js, MySQL, Docker, AWS EC2, Swagger</summary>
 
 #### 사용 기술
 `Node.js`, `Express.js`, `MySQL`, `Docker`, `AWS EC2`, `Swagger`, `Git`, `Notion`  
@@ -168,8 +156,6 @@
 - 팀 리더로서 상황 체크 및 개발 속도 조율 경험
 - Git으로 코드 형상 관리 및 PR을 통한 리뷰 경험
 
-
-
 #### 기억에 남는 이슈 해결 or 작업 경험
 - **HTTPS 연결 이슈**: Certbot을 활용해 SSL 인증서 재설정 및 Nginx 설정을 올바르게 구성하여 해결
 - **실제 서비스 배포 경험**: EC2 서버 구축, 포트 개방, 도메인 연결, Nginx 설정, HTTPS 발급 등 웹 서비스 운영 절차 경험
@@ -179,14 +165,15 @@
 - **배포 사이트**: [https://lostparty.com](https://lostparty.com)  (비용문제로 일시중지)
 - **GitHub**: [https://github.com/HaeSung99/lp_project](https://github.com/HaeSung99/lp_project)
 
+</details>
+
 ---
 
-### 5. 나만의 레시피 (개인 프로젝트)  
-> 개인 요리 레시피를 등록·관리하는 웹서비스
+<details>
+<summary><b>5. 나만의 레시피 (개인 프로젝트)</b> - 개인 요리 레시피를 등록·관리하는 웹서비스 | 기간: 2024.05 ~ 2024.06 | 팀 구성: 1명 | 내 역할: 풀스택 (기획 ~ 개발 전체) | 기술: Node.js, Express.js, MySQL, EJS</summary>
 
-- **기간**: 2024.05 ~ 2024.06  
-- **사용 기술**: `Node.js`, `Express.js`, `MySQL`, `EJS`  
-- **역할**: 풀스택 (기획 ~ 개발 전체)
+#### 사용 기술
+`Node.js`, `Express.js`, `MySQL`, `EJS`
 
 #### 주요 기능
 - 레시피 CRUD (작성, 수정, 삭제, 조회)
@@ -203,6 +190,8 @@
 #### 링크
 - **배포 사이트**: 없음  
 - **GitHub**: [https://github.com/HaeSung99/database_project](https://github.com/HaeSung99/database_project)
+
+</details>
 
 ---
 
