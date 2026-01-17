@@ -26,7 +26,12 @@
 ## 프로젝트 경험
 
 <details>
-<summary><b>1. 설문 조사 플랫폼 (개인 프로젝트)</b> - 조사원·응답자·관리자가 한 화면에서 설문을 만들고 이어서 응답할 수 있는 프로토타입 | 기간: 2025.11 ~ 2025.11 (약 7일) | 팀 구성: 1명 (풀스택) | 내 역할: 기획 · 백엔드 · 프런트엔드 | 기술: HTML, jQuery, Tailwind CSS, NestJS, TypeScript, Prisma ORM, MSSQL</summary>
+<summary>
+<b>1. 설문 조사 플랫폼 (개인 프로젝트)</b><br>
+조사원·응답자·관리자가 한 화면에서 설문을 만들고 이어서 응답할 수 있는 프로토타입<br>
+📅 2025.11 ~ 2025.11 (약 7일) | 👥 1명 (풀스택) | 🛠️ 기획 · 백엔드 · 프런트엔드<br>
+💻 HTML, jQuery, Tailwind CSS, NestJS, TypeScript, Prisma ORM, MSSQL
+</summary>
 
 #### 사용 기술
 **Frontend**: `HTML`, `jQuery`, `Tailwind CSS`  
@@ -57,7 +62,12 @@
 ---
 
 <details>
-<summary><b>2. Mail Advisor - AI 메일 작성 어시스턴트 (개인 프로젝트)</b> - 네이버 메일 작성 시 AI가 실시간으로 전문적인 메일로 재작성해주는 Chrome 확장 프로그램 | 기간: 2025.10.16 ~ 2025.10.27 | 팀 구성: 1명 (풀스택) | 내 역할: 풀스택 개발 전담 | 기술: Chrome Extension, NestJS, TypeScript, MySQL, TypeORM, JWT, OpenAI API, Docker</summary>
+<summary>
+<b>2. Mail Advisor - AI 메일 작성 어시스턴트 (개인 프로젝트)</b><br>
+네이버 메일 작성 시 AI가 실시간으로 전문적인 메일로 재작성해주는 Chrome 확장 프로그램<br>
+기간: 2025.10.16 ~ 2025.10.27 | 팀 구성: 1명 (풀스택) | 내 역할: 풀스택 개발 전담<br>
+기술: Chrome Extension, NestJS, TypeScript, MySQL, TypeORM, JWT, OpenAI API, Docker
+</summary>
 
 #### 사용 기술
 **Frontend**: `Chrome Extension`  
@@ -94,7 +104,12 @@
 ---
 
 <details>
-<summary><b>3. 스포츠 클래스 예약 시스템 (개인 프로젝트)</b> - 스포츠 클래스 신청 및 관리를 위한 풀스택 웹서비스 | 기간: 2025.06.12 ~ 2025.07.08 | 팀 구성: 1명 (풀스택) | 내 역할: 풀스택 개발 전담 | 기술: Next.js 15, TypeScript, Tailwind CSS, NestJS, MySQL, TypeORM, JWT, Docker</summary>
+<summary>
+<b>3. 스포츠 클래스 예약 시스템 (개인 프로젝트)</b><br>
+스포츠 클래스 신청 및 관리를 위한 풀스택 웹서비스<br>
+기간: 2025.06.12 ~ 2025.07.08 | 팀 구성: 1명 (풀스택) | 내 역할: 풀스택 개발 전담<br>
+기술: Next.js 15, TypeScript, Tailwind CSS, NestJS, MySQL, TypeORM, JWT, Docker
+</summary>
 
 #### 사용 기술
 **Frontend**: `Next.js 15`, `TypeScript`, `Tailwind CSS`, `Axios`  
@@ -133,7 +148,12 @@
 ---
 
 <details>
-<summary><b>4. LostParty (팀 프로젝트 | 팀 리더)</b> - 실시간 게임 파티 정보 제공 웹서비스 | 기간: 2024.12 ~ 2025.04 | 팀 구성: 3명 (백엔드/프론트엔드/OCR) | 내 역할: 백엔드 전담 + 팀 리더 | 기술: Node.js, Express.js, MySQL, Docker, AWS EC2, Swagger</summary>
+<summary>
+<b>4. LostParty (팀 프로젝트 | 팀 리더)</b><br>
+실시간 게임 파티 정보 제공 웹서비스<br>
+기간: 2024.12 ~ 2025.04 | 팀 구성: 3명 (백엔드/프론트엔드/OCR) | 내 역할: 백엔드 전담 + 팀 리더<br>
+기술: Node.js, Express.js, MySQL, Docker, AWS EC2, Swagger
+</summary>
 
 #### 사용 기술
 `Node.js`, `Express.js`, `MySQL`, `Docker`, `AWS EC2`, `Swagger`, `Git`, `Notion`  
@@ -170,7 +190,12 @@
 ---
 
 <details>
-<summary><b>5. 나만의 레시피 (개인 프로젝트)</b> - 개인 요리 레시피를 등록·관리하는 웹서비스 | 기간: 2024.05 ~ 2024.06 | 팀 구성: 1명 | 내 역할: 풀스택 (기획 ~ 개발 전체) | 기술: Node.js, Express.js, MySQL, EJS</summary>
+<summary>
+<b>5. 나만의 레시피 (개인 프로젝트)</b><br>
+개인 요리 레시피를 등록·관리하는 웹서비스<br>
+기간: 2024.05 ~ 2024.06 | 팀 구성: 1명 | 내 역할: 풀스택 (기획 ~ 개발 전체)<br>
+기술: Node.js, Express.js, MySQL, EJS
+</summary>
 
 #### 사용 기술
 `Node.js`, `Express.js`, `MySQL`, `EJS`
