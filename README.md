@@ -2,7 +2,7 @@
 
 **"처음부터 끝까지 서비스를 만들어내는 개발자"**
 
-스왑메모리, 도커, AWS, 웹소켓 이중 구조 통신, 크롬 익스텐션, OEPN API 등 다양한 경험을 통해 성장 해왔습니다.
+스왑메모리, 도커, AWS, 이중 구조 웹소켓 설계, 크롬 익스텐션, Open API 등 다양한 경험을 통해 성장 해왔습니다.
 모던 웹 스택과 클라우드 인프라 역량을 바탕으로, 개발자뿐만 아니라 비개발자 팀원과도 원활하게 소통하며 비즈니스 요구사항을 가장 현실적이고 효율적인 서비스로 구현해냅니다.
 
 ---
@@ -25,16 +25,16 @@
 # 프로젝트 경험
 
 <details>
-<summary><b>1.Lynx </b></summary>
+<summary><b>1.Lynx - 방대한 주식 시장의 흐름과 지표를 한눈에 확인하는 웹서비스 </b></summary>
 
 - **기간**: 2025.12.9 ~
 - **팀 구성**: 1명 (기존 팀 프로젝트에서 프로젝트 완결을 위해 개인 프로젝트로 전환 및 완수)
 - **내 역할**: 풀스택 개발 전담
 
 ## 사용 기술
-**Frontend**: `Next.js`, `TypeScript`, `Tailwind CSS`
-**Backend**: `NestJS`, `TypeScript`, `MySQL`, `TypeORM`, `WebSocket`
-**DevOps**: `Docker`, `Docker Compose` , `AWS EC2`
+**Frontend**: `Next.js`, `TypeScript`, `Tailwind CSS`  
+**Backend**: `NestJS`, `TypeScript`, `MySQL`, `TypeORM`, `WebSocket`  
+**DevOps**: `Docker`, `Docker Compose` , `AWS EC2`  
 
 ## 개요
 방대한 주식 시장 데이터 속에서 개인 투자자가 기술적 지표를 한눈에 파악하기 어렵다는 점에 착안하여 기획한 금융 데이터 분석 시스템입니다.
@@ -83,7 +83,8 @@
 Lynx 프로젝트는 웹소켓 이중 통신부터 외부 API 연동, 시계열 데이터 가공, 뉴스 API 통합, 그리고 인프라 최적화에 이르기까지 백엔드 개발자가 마주할 수 있는 다각도의 기술적 난제들을 하나의 서비스 안에 녹여내며 정면으로 돌파해 본 소중한 경험이었습니다.
 
 ## 링크
-- **GitHub**:
+- FE:
+- BE:
 
 </details>
 
@@ -138,7 +139,7 @@ Lynx 프로젝트는 웹소켓 이중 통신부터 외부 API 연동, 시계열 
 
 
 ## 링크
-- **GitHub**: [https://github.com/HaeSung99/mail-advisor](https://github.com/HaeSung99/mail-advisor)
+- FE/BE: [https://github.com/HaeSung99/mail-advisor](https://github.com/HaeSung99/mail-advisor)
 
 </details>
 
@@ -204,7 +205,8 @@ Lynx 프로젝트는 웹소켓 이중 통신부터 외부 API 연동, 시계열 
 1인 프로젝트로서 프론트엔드와 백엔드를 동시에 진행하며 중심을 잡는 것이 쉽지 않았으나, 이를 통해 얻은 구조적인 사고방식은 단순히 기능을 구현하는 것을 넘어 서비스 전체의 유기적인 연결 구조를 파악하는 데 핵심적인 역량이 되었습니다.
 
 ## 링크
-- **GitHub**: [https://github.com/HaeSung99/fullstack-website](https://github.com/HaeSung99/fullstack-website)
+- FE: [https://github.com/HaeSung99/fullstack-website](https://github.com/HaeSung99/fullstack-website)
+- BE: 
 
 </details>
 
