@@ -83,8 +83,8 @@
 Lynx 프로젝트는 웹소켓 이중 통신부터 외부 API 연동, 시계열 데이터 가공, 뉴스 API 통합, 그리고 인프라 최적화에 이르기까지 백엔드 개발자가 마주할 수 있는 다각도의 기술적 난제들을 하나의 서비스 안에 녹여내며 정면으로 돌파해 본 소중한 경험이었습니다.
 
 ## 링크
-- FE:
-- BE:
+- FE(수정중): [https://github.com/HaeSung99/Lynx-FE](https://github.com/HaeSung99/Lynx-FE)
+- BE(수정중): [https://github.com/HaeSung99/Lynx-BE](https://github.com/HaeSung99/Lynx-BE)
 
 </details>
 
@@ -205,8 +205,8 @@ Lynx 프로젝트는 웹소켓 이중 통신부터 외부 API 연동, 시계열 
 1인 프로젝트로서 프론트엔드와 백엔드를 동시에 진행하며 중심을 잡는 것이 쉽지 않았으나, 이를 통해 얻은 구조적인 사고방식은 단순히 기능을 구현하는 것을 넘어 서비스 전체의 유기적인 연결 구조를 파악하는 데 핵심적인 역량이 되었습니다.
 
 ## 링크
-- FE: [https://github.com/HaeSung99/fullstack-website](https://github.com/HaeSung99/fullstack-website)
-- BE: 
+- FE/BE (수정중): [https://github.com/HaeSung99/fullstack-website](https://github.com/HaeSung99/fullstack-website)
+- 
 
 </details>
 
