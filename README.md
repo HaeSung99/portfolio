@@ -276,6 +276,21 @@ OCR(광학 문자 인식) 기술과 게임 공식 API를 결합하여, 실시간
 
 ---
 
+<details>
+<summary><b> 그 외 프로젝트 </b></summary>
+
+### 1번 프로젝트
+프로젝트 데모사이트: [https://allcarelabs-fe.vercel.app](https://allcarelabs-fe.vercel.app) <br>
+프로젝트 레포지토리: [https://github.com/HaeSung99/allcarelabs-FE](https://github.com/HaeSung99/allcarelabs-FE)
+
+### 2번 프로젝트
+프로젝트 레포지토리: [https://github.com/HaeSung99/survey-demo-portfolio](https://github.com/HaeSung99/survey-demo-portfolio)
+
+</details>
+
+
+---
+
 # 기억에 남는 프로젝트
 '로스트파티'는 게임 화면을 실시간으로 분석하여 파티원 정보를 자동 추출하는 서비스입니다. 초기 1인 개발로 시작했으나, 특수 폰트 인식 이라는 기술적 한계에 부딪혔습니다. 이를 해결하기 위해 OCR 기술 지식을 갖춘 팀원을 직접 모집하여 협업 체계로 전환했고, 팀을 통해 문제를 해결하는 과정을 경험했습니다.
 
