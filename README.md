@@ -85,6 +85,7 @@ Lynx 프로젝트는 웹소켓 이중 통신부터 외부 API 연동, 시계열 
 ## 링크
 - FE(수정중): [https://github.com/HaeSung99/Lynx-FE](https://github.com/HaeSung99/Lynx-FE)
 - BE(수정중): [https://github.com/HaeSung99/Lynx-BE](https://github.com/HaeSung99/Lynx-BE)
+- 데모사이트(백엔드 서버 실행중일 때만 작동): [https://lynx-fe-two.vercel.app](https://lynx-fe-two.vercel.app)
 
 </details>
 
@@ -206,7 +207,7 @@ Lynx 프로젝트는 웹소켓 이중 통신부터 외부 API 연동, 시계열 
 
 ## 링크
 - FE/BE (수정중): [https://github.com/HaeSung99/fullstack-website](https://github.com/HaeSung99/fullstack-website)
-- 
+- 데모사이트: [https://playzone-fe.vercel.app](https://playzone-fe.vercel.app)
 
 </details>
 
